@@ -8,4 +8,6 @@ These features are described and analysed to see their advantages and drawbacks 
 Encryption techniques Used : TRIPLE DES, AES, BLOWFISH, RSA ALGORITHM
 
 
+ARCHITECTURE
+
 ![image](https://user-images.githubusercontent.com/91458980/230710014-d1d21013-684b-4922-9216-6e22b50002a0.png)
